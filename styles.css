@@ -1,0 +1,23 @@
+.picture {
+    width: 350px;
+    border: 3px dotted plum;
+}
+
+.heading {
+    width: 350px;
+    border: 3px dotted powderblue;
+    margin-left: 20px;
+}
+
+.general_text {
+    width: 350px;
+    border: 3px dotted peachpuff;
+    margin-left: 20px;
+}
+
+.form {
+    width: 400px;
+    border: 3px dotted palegreen;
+    text-align: center;
+    padding-top: 15px;
+}
